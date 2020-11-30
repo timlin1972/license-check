@@ -1,0 +1,26 @@
+{
+  "name": "license-check",
+  "version": "1.0.0",
+  "description": "license-check",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timlin1972/license-check.git"
+  },
+  "keywords": [
+    "license-check",
+    "server"
+  ],
+  "author": "Tim Lin <timlin1972@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timlin1972/license-check/issues"
+  },
+  "homepage": "https://github.com/timlin1972/license-check#readme",
+  "dependencies": {
+    "tln-logger": "^1.0.2"
+  }
+}
